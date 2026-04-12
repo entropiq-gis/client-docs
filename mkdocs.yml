@@ -1,0 +1,19 @@
+site_name: Entropiq QRNG Client Documentation
+site_description: Install, configured and maintain the EntropiQ clients
+
+theme:
+  name: mkdocs
+
+nav:
+  - Overview: index.md
+  - Install: install.md
+  - Advanced: advanced.md
+  - How It Works: architecture.md
+  - Troubleshooting: troubleshooting.md
+  - Reference: reference.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
