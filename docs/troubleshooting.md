@@ -6,13 +6,13 @@
 - Is the API key valid and current (i.e., not expired)?
 
 ## Common issues
-The installation failed
-- Cause: 
-- Solution:
+###The installation failed
+- Cause
+- Solution
 
-High CPU usage
-- Cause:
-- Solution:
+###High CPU usage
+- Cause
+- Solution
 
 ## Log file locations
 - C:\ProgramData\Entropiq\Log

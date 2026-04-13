@@ -1,8 +1,8 @@
-site_name: Entropiq QRNG Client Documentation
+site_name: Entropiq Client Documentation
 site_description: Install, configured and maintain the EntropiQ clients
 
 theme:
-  name: mkdocs
+  name: readthedocs
 
 nav:
   - Overview: index.md
